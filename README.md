@@ -1,3 +1,1 @@
-# SowingMap
-个人开发的SowingMap库
-欢迎补充，纯属个人爱好，代码正在逐步更新，无项目任务时会逐步开发上传
+# vue-element-admin后台开发的第一次精简版本
